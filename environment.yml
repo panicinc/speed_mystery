@@ -1,0 +1,11 @@
+---
+
+name: speed_mystery
+
+dependencies:
+- python>=3.6
+- pip
+- pandas
+- seaborn
+- jupyter
+- matplotlib
